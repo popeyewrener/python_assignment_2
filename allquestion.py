@@ -87,7 +87,7 @@ def q6():
     for i in range(3):
         side=float(input("Enter side %s: "%(i+1)))
         sides.append(side)
-    finchoice()
+    
 
 
     def qmethod():
